@@ -1,0 +1,19 @@
+.bg-purple {
+    background-color: purple;
+}
+img {
+    width: 100%;
+}
+.navbar-brand img {
+    width: 30px;
+}
+#carrousel img {
+    max-height: 80vh;
+    object-fit: cover;
+}
+#conoce img {
+    height: 100%;
+}
+p.text-black-50 {
+    font-size: small;
+}
